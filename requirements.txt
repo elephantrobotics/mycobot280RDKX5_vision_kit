@@ -6,3 +6,4 @@ pymycobot
 opencv-python
 opencv-contrib-python
 transforms3d
+stag-python
